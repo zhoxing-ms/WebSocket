@@ -1,3 +1,6 @@
 *.war
 .myeclipse
 .settings
+.classpath
+.mymetadata
+.project
